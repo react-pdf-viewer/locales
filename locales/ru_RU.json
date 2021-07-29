@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "Нажмите, чтобы скачать",
+        "noAttachment": "Прикрепления нет"
+    },
+    "bookmark": {
+        "noBookmark": "Закладки нет"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "Этот документ требует пароля для открытия",
+            "submit": "Представить"
+        },
+        "wrongPassword": {
+            "submit": "Submit",
+            "tryAgain": "Пароль неверный. Попробуйте еще раз"
+        },
+        "pageLabel": "Страница {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "Прикрепление",
+        "bookmark": "Закладка",
+        "thumbnail": "Миниатюра"
+    },
+    "download": {
+        "download": "Скачать"
+    },
+    "drop": {
+        "dragDropFile": "Перетащить и отпустить ПДФ документ сюда"
+    },
+    "fullScreen": {
+        "enterFullScreen": "Полный экран",
+        "exitFullScreen": "Выйти из полноэкранного режима"
+    },
+    "localeSwitcher": {
+        "switchLocale": "Переключать локаль"
+    },
+    "open": {
+        "openFile": "Открыть файл"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "Ввести номер страницы",
+        "goToFirstPage": "Первая страница",
+        "goToLastPage": "Последняя страница",
+        "goToNextPage": "Следующая страница",
+        "goToPreviousPage": "Предыдущая страница"
+    },
+    "print": {
+        "cancel": "Отменить",
+        "preparingDocument": "Подготовка документа…",
+        "print": "Напечатать"
+    },
+    "properties": {
+        "author": "Автор",
+        "close": "Закрыть",
+        "creationDate": "Дата создания",
+        "creator": "Создатель",
+        "fileName": "Название файла",
+        "fileSize": "Размер файла",
+        "keywords": "Ключевые слова",
+        "modificationDate": "Дата изменения",
+        "pageCount": "Количество страниц",
+        "pdfProducer": "Производитель ПДФ",
+        "pdfVersion": "Версия ПДФ",
+        "showProperties": "Показать свойства",
+        "subject": "Объект",
+        "title": "Название"
+    },
+    "rotate": {
+        "rotateBackward": "Вращаться против часовой стрелки",
+        "rotateForward": "Вращаться по часовой стрелке"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "Горизонтальная прокрутка",
+        "verticalScrolling": "Вертикальная прокрутка",
+        "wrappedScrolling": "Прокрутка с переносом"
+    },
+    "search": {
+        "close": "Закрыть",
+        "enterToSearch": "Введите для поиска",
+        "matchCase": "Матч",
+        "nextMatch": "Следующий матч",
+        "previousMatch": "Предыдущий матч",
+        "search": "Поиск",
+        "wholeWords": "Целые слова"
+    },
+    "selectionMode": {
+        "handTool": "Ручной инструмент",
+        "textSelectionTool": "Инструмент выделения текста"
+    },
+    "theme": {
+        "switchDarkTheme": "Переключится на темный режим",
+        "switchLightTheme": "Переключится на светлый режим"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "Миниатюра страницы {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "Больше действий"
+    },
+    "zoom": {
+        "actualSize": "Настоящий размер",
+        "pageFit": "По размеру страницы",
+        "pageWidth": "Ширина страницы",
+        "zoomDocument": "Увеличить документ",
+        "zoomIn": "Приблизить",
+        "zoomOut": "Уменьшить"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "点击下载",
+        "noAttachment": "没有附件"
+    },
+    "bookmark": {
+        "noBookmark": "没有书签"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "此文件需要密码才能打开",
+            "submit": "提交"
+        },
+        "wrongPassword": {
+            "submit": "提交",
+            "tryAgain": "密码错误。请重试"
+        },
+        "pageLabel": "页面 {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "附件",
+        "bookmark": "书签",
+        "thumbnail": "缩略图"
+    },
+    "download": {
+        "download": "下载"
+    },
+    "drop": {
+        "dragDropFile": "将 PDF 文档拖放到此处"
+    },
+    "fullScreen": {
+        "enterFullScreen": "全屏",
+        "exitFullScreen": "退出全屏"
+    },
+    "localeSwitcher": {
+        "switchLocale": "更改区域设置"
+    },
+    "open": {
+        "openFile": "打开文件"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "输入页码",
+        "goToFirstPage": "第一页",
+        "goToLastPage": "最后一页",
+        "goToNextPage": "下一页",
+        "goToPreviousPage": "上一页"
+    },
+    "print": {
+        "cancel": "取消",
+        "preparingDocument": "准备文件...",
+        "print": "打印"
+    },
+    "properties": {
+        "author": "作者",
+        "close": "关闭",
+        "creationDate": "创作日期",
+        "creator": "创作者",
+        "fileName": "文件名称",
+        "fileSize": "文件大小",
+        "keywords": "关键词",
+        "modificationDate": "修改日期",
+        "pageCount": "页数",
+        "pdfProducer": "PDF制作软件",
+        "pdfVersion": "PDF版本",
+        "showProperties": "显示属性",
+        "subject": "主题",
+        "title": "标题"
+    },
+    "rotate": {
+        "rotateBackward": "逆时针旋转",
+        "rotateForward": "顺时针旋转"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "水平滚动",
+        "verticalScrolling": "垂直滚动",
+        "wrappedScrolling": "环绕滚动"
+    },
+    "search": {
+        "close": "关闭",
+        "enterToSearch": "输入搜索词",
+        "matchCase": "相符",
+        "nextMatch": "下一个相符",
+        "previousMatch": "上一个相符",
+        "search": "搜索",
+        "wholeWords": "全部词句"
+    },
+    "selectionMode": {
+        "handTool": "手型工具",
+        "textSelectionTool": "文本选择工具"
+    },
+    "theme": {
+        "switchDarkTheme": "切换到深色模式",
+        "switchLightTheme": "切换到浅色模式"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "页面缩略图 {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "更多操作"
+    },
+    "zoom": {
+        "actualSize": "实际尺寸",
+        "pageFit": "适合页面",
+        "pageWidth": "页面宽度",
+        "zoomDocument": "缩放文件",
+        "zoomIn": "缩小",
+        "zoomOut": "放大"
+    }
+}

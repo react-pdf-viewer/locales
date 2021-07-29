@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "Clique para baixar",
+        "noAttachment": "Não há anexo"
+    },
+    "bookmark": {
+        "noBookmark": "Não há marcação"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "Este documento precisa uma senha para abrir",
+            "submit": "Submeter"
+        },
+        "wrongPassword": {
+            "submit": "Submeter",
+            "tryAgain": "A senha está errada. Tente novamente, por favor."
+        },
+        "pageLabel": "Página {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "Anexo",
+        "bookmark": "Marcação",
+        "thumbnail": "Miniatura"
+    },
+    "download": {
+        "download": "Baixar"
+    },
+    "drop": {
+        "dragDropFile": "Arraste e solte um documento PDF aqui"
+    },
+    "fullScreen": {
+        "enterFullScreen": "Insira no modo tela cheia",
+        "exitFullScreen": "Saia no modo tela cheia"
+    },
+    "localeSwitcher": {
+        "switchLocale": "Mudar de local"
+    },
+    "open": {
+        "openFile": "Abrir arquivo"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "Insira um número de página",
+        "goToFirstPage": "Primeira página",
+        "goToLastPage": "Última página",
+        "goToNextPage": "Próxima página",
+        "goToPreviousPage": "Página anterior"
+    },
+    "print": {
+        "cancel": "Cancelar",
+        "preparingDocument": "Preparando documento",
+        "print": "Imprimir"
+    },
+    "properties": {
+        "author": "Autor",
+        "close": "Fechar",
+        "creationDate": "Data de criação",
+        "creator": "Criador",
+        "fileName": "Nome do arquivo",
+        "fileSize": "Tamanho do arquivo",
+        "keywords": "Palavras-chave",
+        "modificationDate": "Modificação de data",
+        "pageCount": "Contagem de página",
+        "pdfProducer": "Produtor PDF",
+        "pdfVersion": "Versão PDF",
+        "showProperties": "Mostrar propriedades",
+        "subject": "Tema",
+        "title": "Título"
+    },
+    "rotate": {
+        "rotateBackward": "Girar no sentido anti horário",
+        "rotateForward": "Girar no sentido horário"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "Rolagem horizontal",
+        "verticalScrolling": "Rolagem vertical",
+        "wrappedScrolling": "Rolagem envolvida"
+    },
+    "search": {
+        "close": "Fechar",
+        "enterToSearch": "Insira para pesquisar",
+        "matchCase": "Caso de compatibilidade",
+        "nextMatch": "Próxima compatibilidade ",
+        "previousMatch": "Compatibilidade anterior",
+        "search": "Pesquisar",
+        "wholeWords": "Todas palavras"
+    },
+    "selectionMode": {
+        "handTool": "Ferramenta manual",
+        "textSelectionTool": "Ferramenta de seleção de texto"
+    },
+    "theme": {
+        "switchDarkTheme": "Mudar para o modo escuro",
+        "switchLightTheme": " Mudar para o modo claro "
+    },
+    "thumbnail": {
+        "thumbnailLabel": "Miniatura da página {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "Mais ações"
+    },
+    "zoom": {
+        "actualSize": "Tamanho natural",
+        "pageFit": "Ajuste de página",
+        "pageWidth": "Largura da página",
+        "zoomDocument": "Documento de zoom",
+        "zoomIn": "Ampliar",
+        "zoomOut": "Afastar"
+    }
+}

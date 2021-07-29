@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "Appuyez Pour Télécharger",
+        "noAttachment": "Pas d’attachement"
+    },
+    "bookmark": {
+        "noBookmark": "Pas de Signet"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "Exiger un Mot de passe Pour Ouvrir",
+            "submit": "Soumettre"
+        },
+        "wrongPassword": {
+            "submit": "Soumettre",
+            "tryAgain": "Mauvais mot de passe. Veuillez réessayer."
+        },
+        "pageLabel": "Page {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "Attachement",
+        "bookmark": "Signet",
+        "thumbnail": "Photo de profil"
+    },
+    "download": {
+        "download": "Télécharger"
+    },
+    "drop": {
+        "dragDropFile": "Tirer et déposer le document de PDF ici"
+    },
+    "fullScreen": {
+        "enterFullScreen": "Plein écran",
+        "exitFullScreen": "sortir du mode de Plein écran"
+    },
+    "localeSwitcher": {
+        "switchLocale": "Changer le Lieu"
+    },
+    "open": {
+        "openFile": "Ouvrir le Fichier"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "Entrer le Numéro de Page",
+        "goToFirstPage": "Première Page",
+        "goToLastPage": "Dernière Page",
+        "goToNextPage": "Page Suivante",
+        "goToPreviousPage": "Page Précédente"
+    },
+    "print": {
+        "cancel": "Annuler",
+        "preparingDocument": "Être en train de préparer le Document ...",
+        "print": "Imprimer"
+    },
+    "properties": {
+        "author": "Auteur",
+        "close": "Fermer",
+        "creationDate": "Date de création",
+        "creator": "Créateur",
+        "fileName": "Nom de fichier",
+        "fileSize": "Taille du fichier",
+        "keywords": "Mots-clés",
+        "modificationDate": "Date de modification",
+        "pageCount": "Nombre de page",
+        "pdfProducer": "Créer un fichier pdf",
+        "pdfVersion": "Version PDF",
+        "showProperties": "Afficher les propriétés",
+        "subject": "Sujet",
+        "title": "Titre"
+    },
+    "rotate": {
+        "rotateBackward": "Tourner en arrière",
+        "rotateForward": "Tourner en avant"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "Défilement horizontal",
+        "verticalScrolling": "Défilement vertical",
+        "wrappedScrolling": "Défilement de nombreuses pages"
+    },
+    "search": {
+        "close": "Fermer",
+        "enterToSearch": "Appuyez Enter pour rechercher",
+        "matchCase": "Distinguer la minuscule et majuscule",
+        "nextMatch": "Résultat suivant",
+        "previousMatch": "Résultat précédent",
+        "search": "Rechercher",
+        "wholeWords": "Mots entiers"
+    },
+    "selectionMode": {
+        "handTool": "à la main",
+        "textSelectionTool": "Outil de Sélection de texte"
+    },
+    "theme": {
+        "switchDarkTheme": "Changer vers le Thème Sombre",
+        "switchLightTheme": "Changer vers le Thème Clair"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "Photo de profil de la page {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "Autres actions"
+    },
+    "zoom": {
+        "actualSize": "Taille actuelle",
+        "pageFit": "Adapter à la page",
+        "pageWidth": "Largeur de page",
+        "zoomDocument": "Agrandir le document",
+        "zoomIn": "Agrandir",
+        "zoomOut": "Rapetisser"
+    }
+}
