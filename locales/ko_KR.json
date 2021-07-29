@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "다운로드하려면 클릭하기",
+        "noAttachment": "첨부 파일이 없습니다"
+    },
+    "bookmark": {
+        "noBookmark": "책갈피가 없습니다"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "이 문서를 열려면 암호가 필요합니다",
+            "submit": "제출"
+        },
+        "wrongPassword": {
+            "submit": "제출",
+            "tryAgain": "암호가 잘못되었습니다. 다시 시도하십시오"
+        },
+        "pageLabel": "페이지 {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "첨부",
+        "bookmark": "책갈피",
+        "thumbnail": "썸네일"
+    },
+    "download": {
+        "download": "다운로드"
+    },
+    "drop": {
+        "dragDropFile": "PDF 파일을 여기로 드래그하세요"
+    },
+    "fullScreen": {
+        "enterFullScreen": "전체 화면",
+        "exitFullScreen": "전체 화면 종료"
+    },
+    "localeSwitcher": {
+        "switchLocale": "로케일 변경"
+    },
+    "open": {
+        "openFile": "파일 열기"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "페이지 번호를 입력하십시오",
+        "goToFirstPage": "첫 페이지",
+        "goToLastPage": "마지막 페이지",
+        "goToNextPage": "다음 페이지",
+        "goToPreviousPage": "이전 페이지"
+    },
+    "print": {
+        "cancel": "취소",
+        "preparingDocument": "문서 준비 중...",
+        "print": "인쇄"
+    },
+    "properties": {
+        "author": "저자",
+        "close": "닫기",
+        "creationDate": "만든 날짜",
+        "creator": "제작자",
+        "fileName": "파일 이름",
+        "fileSize": "파일 크기",
+        "keywords": "키워드",
+        "modificationDate": "수정 날짜",
+        "pageCount": "페이지 수",
+        "pdfProducer": "PDF 작성하기",
+        "pdfVersion": "PDF 버전",
+        "showProperties": "상세정보 보기",
+        "subject": "주제",
+        "title": "제목"
+    },
+    "rotate": {
+        "rotateBackward": "반시계 방향으로 회전",
+        "rotateForward": "시계 방향으로 회전"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "수평 스크롤링",
+        "verticalScrolling": "수직 스크롤링",
+        "wrappedScrolling": "자동줄바꿈 스크롤링"
+    },
+    "search": {
+        "close": "닫기",
+        "enterToSearch": "검색하려면 입력하세요",
+        "matchCase": "대/소문자 구분",
+        "nextMatch": "다음 찾기",
+        "previousMatch": "이전 찾기",
+        "search": "검색",
+        "wholeWords": "단어 단위로"
+    },
+    "selectionMode": {
+        "handTool": "손 도구",
+        "textSelectionTool": "선택 도구"
+    },
+    "theme": {
+        "switchDarkTheme": "어두운 테마로 전환",
+        "switchLightTheme": "밝은 테마로 전환"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "페이지의 썸네일 {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "추가 작업"
+    },
+    "zoom": {
+        "actualSize": "실제 크기",
+        "pageFit": "페이지에 맞춤",
+        "pageWidth": "너비에 맞춤",
+        "zoomDocument": "문서 확대/축소",
+        "zoomIn": "확대",
+        "zoomOut": "축소"
+    }
+}
