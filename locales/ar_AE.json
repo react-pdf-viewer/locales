@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "اضغط للتحميل",
+        "noAttachment": "لا يوجد مرفق"
+    },
+    "bookmark": {
+        "noBookmark": "لا توجد إشارة مرجعية"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "يتطلب هذا المستند كلمة مرور لفتحه",
+            "submit": "يقدم"
+        },
+        "wrongPassword": {
+            "submit": "يقدم",
+            "tryAgain": "كلمة المرور خاطئة. حاول مرة اخرى"
+        },
+        "pageLabel": "صفحة {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "مرفق",
+        "bookmark": "إشارة مرجعية",
+        "thumbnail": "صورة مصغرة"
+    },
+    "download": {
+        "download": "تحميل"
+    },
+    "drop": {
+        "dragDropFile": "اسحب وأفلت مستند بي دي إف  هنا"
+    },
+    "fullScreen": {
+        "enterFullScreen": "شاشة كاملة",
+        "exitFullScreen": "اخرج من ملء الشاشة"
+    },
+    "localeSwitcher": {
+        "switchLocale": "تبديل  اللغة"
+    },
+    "open": {
+        "openFile": "افتح الملف"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "أدخل رقم الصفحة",
+        "goToFirstPage": "الصفحة الأولى",
+        "goToLastPage": "الصفحة الأخيرة",
+        "goToNextPage": "الصفحة التالية",
+        "goToPreviousPage": "الصفحة السابقة"
+    },
+    "print": {
+        "cancel": "إلغاء",
+        "preparingDocument": "...تحضير الوثيقة",
+        "print": "أطبع"
+    },
+    "properties": {
+        "author": "مؤلف",
+        "close": "يغلق",
+        "creationDate": "تاريخ الإنشاء",
+        "creator": "الخالق",
+        "fileName": "اسم الملف",
+        "fileSize": "حجم الملف",
+        "keywords": "الكلمات الدالة",
+        "modificationDate": "تاريخ التعديل",
+        "pageCount": "عدد الصفحات",
+        "pdfProducer": "PDF منتج",
+        "pdfVersion": "PDF إصدار",
+        "showProperties": "إظهار الخصائص",
+        "subject": "موضوع",
+        "title": "عنوان"
+    },
+    "rotate": {
+        "rotateBackward": "يدور بعكس إتجاه عقارب الساعة",
+        "rotateForward": "تدور في اتجاه عقارب الساعة"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "التمرير الأفقي",
+        "verticalScrolling": "التمرير العمودي",
+        "wrappedScrolling": "التمرير ملفوفة"
+    },
+    "search": {
+        "close": "يغلق",
+        "enterToSearch": "أدخل للبحث",
+        "matchCase": "حالة المطابقة",
+        "nextMatch": "المطابقة القادمة",
+        "previousMatch": "المطابقة السابقة",
+        "search": "بحث",
+        "wholeWords": "كلمات كاملة"
+    },
+    "selectionMode": {
+        "handTool": "اداة يدوية",
+        "textSelectionTool": "أداة اختيار النص"
+    },
+    "theme": {
+        "switchDarkTheme": "التبديل إلى النسق الداكن",
+        "switchLightTheme": "التبديل إلى النسق الضوء"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "صورة مصغرة للصفحة {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "المزيد من الإجراءات"
+    },
+    "zoom": {
+        "actualSize": "الحجم الفعلي",
+        "pageFit": "احتواء في الصفحة",
+        "pageWidth": "عرض الصفحة",
+        "zoomDocument": "وثيقة التكبير",
+        "zoomIn": "قرب الصورة",
+        "zoomOut": "تكبير خارج الصورة"
+    }
+}
