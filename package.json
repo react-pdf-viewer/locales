@@ -31,13 +31,10 @@
         "react": "^16.8.0 || ^17.0.0",
         "react-dom": "^16.8.0 || ^17.0.0"
     },
-    "publishConfig": {
-        "access": "public"
-    },
     "scripts": {
         "build": "rm -rf lib && mkdir lib && cp -r locales/*.json lib",
         "format": "prettier --write \"**/*.+(json)\"",
-        "release": "npm run build && lerna publish from-package"
+        "release": "npm run build && npm publish --access public"
     },
     "devDependencies": {
         "prettier": "^2.3.2"
