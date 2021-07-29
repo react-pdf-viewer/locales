@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "クリックしてダウンロードします",
+        "noAttachment": "添付ファイルがありません"
+    },
+    "bookmark": {
+        "noBookmark": "ブックマークがありません"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "この文書を開くには、パスワードが必要です",
+            "submit": "提出"
+        },
+        "wrongPassword": {
+            "submit": "提出",
+            "tryAgain": "パスワードが間違っています。 もう一度やり直してください"
+        },
+        "pageLabel": "ページ {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "添付ファイル",
+        "bookmark": "ブックマーク",
+        "thumbnail": "サムネイル"
+    },
+    "download": {
+        "download": "ダウンロード"
+    },
+    "drop": {
+        "dragDropFile": "ここにPDF文書をドラッグ&ドロップします"
+    },
+    "fullScreen": {
+        "enterFullScreen": "全画面表示",
+        "exitFullScreen": "全画面表示を終了します"
+    },
+    "localeSwitcher": {
+        "switchLocale": "ロケールの切り替え"
+    },
+    "open": {
+        "openFile": "ファイルを開きます"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "ページ番号を入力してください",
+        "goToFirstPage": "先頭のページ",
+        "goToLastPage": "最後のページ",
+        "goToNextPage": "次のページ",
+        "goToPreviousPage": "前のページ"
+    },
+    "print": {
+        "cancel": "キャンセル",
+        "preparingDocument": "文書を準備しています..。",
+        "print": "印刷"
+    },
+    "properties": {
+        "author": "著者",
+        "close": "クローズ",
+        "creationDate": "作成日",
+        "creator": "クリエイター",
+        "fileName": "ファイル名",
+        "fileSize": "ファイルサイズ",
+        "keywords": "キーワード",
+        "modificationDate": "変更日",
+        "pageCount": "ページ数",
+        "pdfProducer": "PDFプロデューサー",
+        "pdfVersion": "PDFのバージョン",
+        "showProperties": "プロパティを表示します",
+        "subject": "件名",
+        "title": "タイトル"
+    },
+    "rotate": {
+        "rotateBackward": "反時計回りに回転します",
+        "rotateForward": "時計回りに回転します"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "水平スクロール",
+        "verticalScrolling": "垂直スクロール",
+        "wrappedScrolling": "ラップされたスクロール"
+    },
+    "search": {
+        "close": "クローズ",
+        "enterToSearch": "検索するために入力してください",
+        "matchCase": "マッチケース",
+        "nextMatch": "次のマッチケース",
+        "previousMatch": "前のマッチケース",
+        "search": "検索",
+        "wholeWords": "全体の単語数"
+    },
+    "selectionMode": {
+        "handTool": "手のひらツール",
+        "textSelectionTool": "文字の選択ツール"
+    },
+    "theme": {
+        "switchDarkTheme": "ダークテーマに切り替えます",
+        "switchLightTheme": "ライトテーマに切り替えます"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "ページのサムネイル {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "その他のアクション"
+    },
+    "zoom": {
+        "actualSize": "実際のサイズ",
+        "pageFit": "ページに合わせます",
+        "pageWidth": "ページの幅",
+        "zoomDocument": "ドキュメントの表示を拡大し、縮小します",
+        "zoomIn": "ズームイン",
+        "zoomOut": "ズームアウト"
+    }
+}
