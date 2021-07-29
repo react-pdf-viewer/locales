@@ -1,0 +1,45 @@
+{
+    "name": "@react-pdf-viewer/locales",
+    "version": "1.0.0",
+    "description": "Translations of the React PDF Viewer's UI in different languages",
+    "license": "https://react-pdf-viewer.dev/license",
+    "author": {
+        "name": "Nguyen Huu Phuoc",
+        "email": "me@phuoc.ng",
+        "url": "https://twitter.com/nghuuphuoc"
+    },
+    "homepage": "https://react-pdf-viewer.dev",
+    "keywords": [
+        "react",
+        "react.js",
+        "pdf",
+        "pdf.js",
+        "pdf viewer"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/react-pdf-viewer/locales"
+    },
+    "bugs": {
+        "url": "https://github.com/react-pdf-viewer/locales/issues"
+    },
+    "files": [
+        "lib/*.json"
+    ],
+    "peerDependencies": {
+        "pdfjs-dist": "^2.6.347",
+        "react": "^16.8.0 || ^17.0.0",
+        "react-dom": "^16.8.0 || ^17.0.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "build": "rm -rf lib && mkdir lib && cp -r locales/*.json lib",
+        "format": "prettier --write \"**/*.+(json)\"",
+        "release": "npm run build && lerna publish from-package"
+    },
+    "devDependencies": {
+        "prettier": "^2.3.2"
+    }
+}
