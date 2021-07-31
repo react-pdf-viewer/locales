@@ -27,9 +27,8 @@
         "lib/*.json"
     ],
     "scripts": {
-        "build": "rm -rf lib && mkdir lib && cp -r locales/*.json lib",
         "format": "prettier --write \"**/*.+(json)\"",
-        "release": "npm run build && npm publish --access public"
+        "release": "npm publish --access public"
     },
     "devDependencies": {
         "prettier": "^2.3.2"
