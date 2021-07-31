@@ -1,14 +1,14 @@
 {
     "attachment": {
-        "clickToDownload": "Appuyez Pour Télécharger",
+        "clickToDownload": "Appuyez pour télécharger",
         "noAttachment": "Pas d’attachement"
     },
     "bookmark": {
-        "noBookmark": "Pas de Signet"
+        "noBookmark": "Pas de signet"
     },
     "core": {
         "askingPassword": {
-            "requirePasswordToOpen": "Exiger un Mot de passe Pour Ouvrir",
+            "requirePasswordToOpen": "Exiger un mot de passe pour ouvrir",
             "submit": "Soumettre"
         },
         "wrongPassword": {
@@ -30,24 +30,24 @@
     },
     "fullScreen": {
         "enterFullScreen": "Plein écran",
-        "exitFullScreen": "sortir du mode de Plein écran"
+        "exitFullScreen": "Sortir du mode de plein écran"
     },
     "localeSwitcher": {
-        "switchLocale": "Changer le Lieu"
+        "switchLocale": "Changer le lieu"
     },
     "open": {
-        "openFile": "Ouvrir le Fichier"
+        "openFile": "Ouvrir le fichier"
     },
     "pageNavigation": {
-        "enterPageNumber": "Entrer le Numéro de Page",
-        "goToFirstPage": "Première Page",
-        "goToLastPage": "Dernière Page",
-        "goToNextPage": "Page Suivante",
-        "goToPreviousPage": "Page Précédente"
+        "enterPageNumber": "Entrer le numéro de page",
+        "goToFirstPage": "Première page",
+        "goToLastPage": "Dernière page",
+        "goToNextPage": "Page suivante",
+        "goToPreviousPage": "Page précédente"
     },
     "print": {
         "cancel": "Annuler",
-        "preparingDocument": "Être en train de préparer le Document ...",
+        "preparingDocument": "Être en train de préparer le document ...",
         "print": "Imprimer"
     },
     "properties": {
@@ -85,12 +85,12 @@
         "wholeWords": "Mots entiers"
     },
     "selectionMode": {
-        "handTool": "à la main",
-        "textSelectionTool": "Outil de Sélection de texte"
+        "handTool": "À la main",
+        "textSelectionTool": "Outil de sélection de texte"
     },
     "theme": {
-        "switchDarkTheme": "Changer vers le Thème Sombre",
-        "switchLightTheme": "Changer vers le Thème Clair"
+        "switchDarkTheme": "Changer vers le thème sombre",
+        "switchLightTheme": "Changer vers le thème clair"
     },
     "thumbnail": {
         "thumbnailLabel": "Photo de profil de la page {{pageIndex}}"
