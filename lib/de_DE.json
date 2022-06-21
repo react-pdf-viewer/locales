@@ -9,10 +9,10 @@
     "core": {
         "askingPassword": {
             "requirePasswordToOpen": "Zum Öffnen dieses Dokuments ist ein Passwort erforderlich",
-            "submit": "Einreichen"
+            "submit": "Öffnen"
         },
         "wrongPassword": {
-            "submit": "Einreichen",
+            "submit": "Öffnen",
             "tryAgain": "Das Passwort ist falsch. Bitte versuchen Sie es erneut"
         },
         "pageLabel": "Seite {{pageIndex}}"
@@ -29,7 +29,7 @@
         "dragDropFile": "Ziehen Sie ein PDF-Dokument per Drag & Drop hierher"
     },
     "fullScreen": {
-        "enterFullScreen": "Voller Bildschirm",
+        "enterFullScreen": "Vollbildmodus starten",
         "exitFullScreen": "Vollbildmodus beenden"
     },
     "localeSwitcher": {
@@ -39,7 +39,7 @@
         "openFile": "Datei öffnen"
     },
     "pageNavigation": {
-        "enterPageNumber": "Seitenzahl einfügen",
+        "enterPageNumber": "Seitenzahl eingeben",
         "goToFirstPage": "Erste Seite",
         "goToLastPage": "Letzte Seite",
         "goToNextPage": "Nächste Seite",
@@ -73,14 +73,14 @@
     "scrollMode": {
         "horizontalScrolling": "Horizontales Scrollen",
         "verticalScrolling": "Vertikales Scrollen",
-        "wrappedScrolling": "Umwickeltes Scrollen"
+        "wrappedScrolling": "Freies Scrollen"
     },
     "search": {
         "close": "Schließen",
-        "enterToSearch": "Zur Suche eingeben",
+        "enterToSearch": "Suchtext eingeben",
         "matchCase": "Groß- / Kleinschreibung",
-        "nextMatch": "Nächstes Spiel",
-        "previousMatch": "Vorheriges Spiel",
+        "nextMatch": "Nächster Treffer",
+        "previousMatch": "Vorheriger Treffer",
         "search": "Suchen",
         "wholeWords": "Ganze Wörter"
     },
