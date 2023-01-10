@@ -1,0 +1,109 @@
+﻿{
+  "attachment": {
+    "clickToDownload": "Klik om te downloaden",
+    "noAttachment": "Er is geen bijlage"
+  },
+  "bookmark": {
+    "noBookmark": "Er is geen bladwijzer"
+  },
+  "core": {
+    "askingPassword": {
+      "requirePasswordToOpen": "Dit document vereist een wachtwoord om te openen",
+      "submit": "Indienen"
+    },
+    "wrongPassword": {
+      "submit": "Indienen",
+      "tryAgain": "Het wachtwoord is verkeerd. Probeer opnieuw"
+    },
+    "pageLabel": "Pagina {{pageIndex}}"
+  },
+  "defaultLayout": {
+    "attachment": "Bijlage",
+    "bookmark": "Bladwijzer",
+    "thumbnail": "Miniatuur"
+  },
+  "download": {
+    "download": "Download"
+  },
+  "drop": {
+    "dragDropFile": "Sleep een PDF document hierop"
+  },
+  "fullScreen": {
+    "enterFullScreen": "Volledig scherm",
+    "exitFullScreen": "Verlaat volledig scherm"
+  },
+  "localeSwitcher": {
+    "switchLocale": "Wijzig taal"
+  },
+  "open": {
+    "openFile": "Open bestand"
+  },
+  "pageNavigation": {
+    "enterPageNumber": "Geef een pagina nummer",
+    "goToFirstPage": "Eerste pagina",
+    "goToLastPage": "Laatste pagina",
+    "goToNextPage": "Volgende pagina",
+    "goToPreviousPage": "Vorige pagina"
+  },
+  "print": {
+    "cancel": "Annuleren",
+    "preparingDocument": "Document voorbereiden ...",
+    "print": "Afdrukken"
+  },
+  "properties": {
+    "author": "Auteur",
+    "close": "Sluiten",
+    "creationDate": "Datum van aanmaken",
+    "creator": "Aangemaakt door",
+    "fileName": "Bestandsnaam",
+    "fileSize": "Bestandsgrootte",
+    "keywords": "Sleutelwoorden",
+    "modificationDate": "Datum van wijziging",
+    "pageCount": "Aantal pagina's",
+    "pdfProducer": "PDF producent",
+    "pdfVersion": "PDF versie",
+    "showProperties": "Toon eigenschappen",
+    "subject": "Onderwerp",
+    "title": "Titel"
+  },
+  "rotate": {
+    "rotateBackward": "Draai in tegenwijzerzin",
+    "rotateForward": "Draai in wijzerzin"
+  },
+  "scrollMode": {
+    "horizontalScrolling": "Horizontaal scrollen",
+    "verticalScrolling": "Verticaal scrollen",
+    "wrappedScrolling": "Scrollen met terugloop"
+  },
+  "search": {
+    "close": "Sluiten",
+    "enterToSearch": "Geef in om te zoeken",
+    "matchCase": "Hoofdletters komen overeen",
+    "nextMatch": "Volgende",
+    "previousMatch": "Vorige",
+    "search": "Zoeken",
+    "wholeWords": "Hele woorden"
+  },
+  "selectionMode": {
+    "handTool": "Hand gereedschap",
+    "textSelectionTool": "Tekst selectie gereedschap"
+  },
+  "theme": {
+    "switchDarkTheme": "Naar donkere modus",
+    "switchLightTheme": "Naar lichte modus"
+  },
+  "thumbnail": {
+    "thumbnailLabel": "Miniatuur van pagina {{pageIndex}}"
+  },
+  "toolbar": {
+    "moreActions": "Meer acties"
+  },
+  "zoom": {
+    "actualSize": "Daadwerkelijke grootte",
+    "pageFit": "Passend",
+    "pageWidth": "Pagina breedte",
+    "zoomDocument": "Zoom document",
+    "zoomIn": "Inzoomen",
+    "zoomOut": "Uitzoomen"
+  }
+}
