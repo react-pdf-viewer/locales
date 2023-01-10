@@ -71,6 +71,7 @@
     "rotateForward": "Draai in wijzerzin"
   },
   "scrollMode": {
+    "pageScrolling ": "Srollen per pagina",
     "horizontalScrolling": "Horizontaal scrollen",
     "verticalScrolling": "Verticaal scrollen",
     "wrappedScrolling": "Scrollen met terugloop"
@@ -97,6 +98,11 @@
   },
   "toolbar": {
     "moreActions": "Meer acties"
+  },
+  "viewMode": {
+    "dualPage": "Dubbele pagina",
+    "dualPageCover": "Dubbele pagina met hoofding",
+    "singlePage": "Enkele pagina"
   },
   "zoom": {
     "actualSize": "Daadwerkelijke grootte",
