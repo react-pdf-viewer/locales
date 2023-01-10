@@ -77,7 +77,7 @@
   },
   "search": {
     "close": "Sluiten",
-    "enterToSearch": "Geef in om te zoeken",
+    "enterToSearch": "Zoektekst",
     "matchCase": "Hoofdletters komen overeen",
     "nextMatch": "Volgende",
     "previousMatch": "Vorige",
