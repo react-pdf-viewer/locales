@@ -74,6 +74,10 @@
         "horizontalScrolling": "Horizontální rolování",
         "verticalScrolling": "Vertikální rolování",
         "wrappedScrolling": "Zabalené rolování"
+
+        "singlePage": "Jednotné",
+        "dualPage": "Dvojté",
+        "dualPageCover": "Dvojté s překrytím"
     },
     "search": {
         "close": "Zavřít",
