@@ -1,0 +1,114 @@
+{
+    "attachment": {
+        "clickToDownload": "Stáhnout přílohy",
+        "noAttachment": "Žádné přílohy"
+    },
+    "bookmark": {
+        "noBookmark": "Žádné záložky"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "Tento dokument pro otevření vyžaduje heslo",
+            "submit": "Potvrdit"
+        },
+        "wrongPassword": {
+            "submit": "Potvrdit",
+            "tryAgain": "Zadané heslo není správně, prosím zkuste to znovu"
+        },
+        "pageLabel": "Stránka {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "Přílohy",
+        "bookmark": "Záložky",
+        "thumbnail": "Náhledy"
+    },
+    "download": {
+        "download": "Stáhnout"
+    },
+    "drop": {
+        "dragDropFile": "Sem přetáhněte PDF dokument"
+    },
+    "fullScreen": {
+        "enterFullScreen": "Režim celé obrazovky",
+        "exitFullScreen": "Opustit režim celé obrazovky"
+    },
+    "localeSwitcher": {
+        "switchLocale": "Přepnout jazyk"
+    },
+    "open": {
+        "openFile": "Otevřit soubor"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "Vložte číslo stránky",
+        "goToFirstPage": "První stránka",
+        "goToLastPage": "Poslední stránka",
+        "goToNextPage": "Další stránka",
+        "goToPreviousPage": "Předchozí stránka"
+    },
+    "print": {
+        "cancel": "Zrušit",
+        "preparingDocument": "Dokument se připravuje ...",
+        "print": "Tisknout"
+    },
+    "properties": {
+        "author": "Autor",
+        "close": "Zavřit",
+        "creationDate": "Datum vytvoření",
+        "creator": "Tvůrce",
+        "fileName": "Název souboru",
+        "fileSize": "Velikost souboru",
+        "keywords": "Klíčová slova",
+        "modificationDate": "Datum poslední úpravy",
+        "pageCount": "Počet stránek",
+        "pdfProducer": "Výrobce PDF",
+        "pdfVersion": "verze PDF",
+        "showProperties": "Zobrazit vlastnosti",
+        "subject": "Předmět",
+        "title": "Název"
+    },
+    "rotate": {
+        "rotateBackward": "Otočit proti směru hodinových ručicek",
+        "rotateForward": "Otočit ve směru hodinových ručiček"
+    },
+    "scrollMode": {
+        "pageScrolling": "Jednostránkové rolování",
+        "horizontalScrolling": "Horizontální rolování",
+        "verticalScrolling": "Vertikální rolování",
+        "wrappedScrolling": "Zabalené rolování"
+
+        "singlePage": "Jednotné",
+        "dualPage": "Dvojté",
+        "dualPageCover": "Dvojté s překrytím"
+    },
+    "search": {
+        "close": "Zavřít",
+        "enterToSearch": "Pište pro hledání",
+        "matchCase": "Shodný případ",
+        "nextMatch": "Další shoda",
+        "previousMatch": "Předchozí shoda",
+        "search": "Hledat",
+        "wholeWords": "Celá slova"
+    },
+    "selectionMode": {
+        "handTool": "Nástroj ručička",
+        "textSelectionTool": "Nástroj volba textu"
+    },
+    "theme": {
+        "switchDarkTheme": "Přepnout do tmavého tématu",
+        "switchLightTheme": "Přepnout do světlého tématu"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "Náhled stránky {{pageIndex}}"
+    },
+    "toolbar": {
+        "moreActions": "Více akcí"
+    },
+    "zoom": {
+        "actualSize": "Aktuální velikost",
+        "pageFit": "Přiźpůsobení stránky",
+        "pageWidth": "Šírka stránky",
+        "zoomDocument": "Zvětšení dokumentu",
+        "zoomIn": "Přiblížit",
+        "zoomOut": "Oddálit"
+    }
+}
