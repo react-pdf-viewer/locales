@@ -71,6 +71,7 @@
         "rotateForward": "Otočit ve směru hodinových ručiček"
     },
     "scrollMode": {
+        "pageScrolling": "Jednostránkové rolování",
         "horizontalScrolling": "Horizontální rolování",
         "verticalScrolling": "Vertikální rolování",
         "wrappedScrolling": "Zabalené rolování"
