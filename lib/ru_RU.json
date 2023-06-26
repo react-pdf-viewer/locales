@@ -71,8 +71,12 @@
         "rotateForward": "Вращаться по часовой стрелке"
     },
     "scrollMode": {
+        "pageScrolling": "Прокрутка страницы",
         "horizontalScrolling": "Горизонтальная прокрутка",
         "verticalScrolling": "Вертикальная прокрутка",
+        "singlePage": "Одна страница",
+        "dualPage": "Две страницы",
+        "dualPageCover": "Две страницы с обложкой",
         "wrappedScrolling": "Прокрутка с переносом"
     },
     "search": {
