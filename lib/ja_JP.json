@@ -100,8 +100,8 @@
     },
     "zoom": {
         "actualSize": "実際のサイズ",
-        "pageFit": "ページに合わせます",
-        "pageWidth": "ページの幅",
+        "pageFit": "ページサイズに合わせる",
+        "pageWidth": "ウィンドウ幅に合わせる",
         "zoomDocument": "ドキュメントの表示を拡大し、縮小します",
         "zoomIn": "ズームイン",
         "zoomOut": "ズームアウト"
